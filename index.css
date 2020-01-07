@@ -1,0 +1,92 @@
+#logo
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
+}
+#barre
+{
+  display: flex;
+  justify-content: center;
+  }
+
+#boutton
+{
+  display: flex;
+  justify-content: center;
+  }
+
+
+header
+{
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 15px;
+  margin-top: 20px;
+}
+
+
+
+#jaidelachance
+{
+  padding-left: 10px;
+}
+
+#recherchegoogle
+{
+  padding-right: 10px;
+}
+
+#Gmail
+{
+  padding-right: 10px;
+}
+
+#Images
+{
+  padding-right: 10px;
+}
+
+#logos
+{
+  padding-right: 10px;
+}
+
+#bouton
+{
+  padding-right: 10px;
+}
+
+
+#pied1
+{
+  display: flex;
+  justify-content: flex-start;
+}
+
+#pied2
+{
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer 
+{
+  width : 100%;
+  position : fixed;
+  bottom: 0;
+}
+
+
+#Publicité
+{padding-right: 10px;}
+
+#Entreprise
+{padding-right: 10px;}
+
+#Àpropos
+{padding-right: 10px;}
+
+#Commment
+{padding-right: 10px;}
+
